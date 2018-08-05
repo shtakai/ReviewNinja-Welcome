@@ -1,5 +1,7 @@
 # ReviewNinja-Welcome
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/ReviewNinja-Welcome.svg)](https://www.guardrails.io)
+
 **Thanks for letting us show you around!**
 
 What you’re seeing here is a GitHub pull request with the code diffs
